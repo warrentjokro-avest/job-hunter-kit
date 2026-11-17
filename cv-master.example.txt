@@ -1,0 +1,30 @@
+YOUR NAME
+TARGET TITLE
+City, State  |  +61 400 000 000  |  you@example.com  |  LinkedIn: Your Name
+Work rights
+
+PROFESSIONAL SUMMARY
+Two or three sentences on who you are, your domain and what you deliver.
+
+TECHNICAL SKILLS
+	•	Languages and Querying: ...
+	•	BI and Visualisation: ...
+	•	Microsoft Office: Excel, PowerPoint, Word, Outlook
+
+PROFESSIONAL EXPERIENCE
+Job Title  |  Company, City	Mon YYYY to Mon YYYY
+	•	Action + what + measurable result.
+	•	Action + what + measurable result.
+
+PROJECTS
+Project name  |  Organisation	Mon YYYY to Mon YYYY
+	•	What you did and the outcome.
+
+EDUCATION
+University	Graduated YYYY
+Degree, majors
+
+CERTIFICATIONS
+Name (Mon YYYY)  |  Name (Mon YYYY)
+
+Everything the agents write comes only from this file. List every real tool, number and achievement here; they will never invent anything that isn't.

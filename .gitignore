@@ -1,0 +1,11 @@
+# Personal data: never commit
+profile.md
+answers.md
+cv-master.*
+!cv-master.example.txt
+applications.csv
+applications/*
+!applications/.gitkeep
+uploads/
+callback-odds.md
+.DS_Store
